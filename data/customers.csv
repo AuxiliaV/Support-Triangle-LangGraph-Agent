@@ -1,0 +1,5 @@
+customer_id,name,email,tier,signup_date
+C001,Priya Nair,priya.nair@example.com,standard,2025-08-22
+C002,Daniel Osei,daniel.osei@example.com,vip,2024-04-09
+C003,Mei Lin,mei.lin@example.com,standard,2026-07-28
+C004,Jorge Ibanez,jorge.ibanez@example.com,standard,2026-03-10

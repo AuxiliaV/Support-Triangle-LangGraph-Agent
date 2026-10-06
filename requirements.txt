@@ -1,0 +1,6 @@
+gradio==6.28.0
+langchain-core==1.6.0
+langchain-openai==1.6.0
+langgraph==1.2.12
+pandas==3.0.6
+pydantic==2.13.5

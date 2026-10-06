@@ -1,0 +1,3 @@
+ticket_id,customer_id,order_id,category,summary,status,created_date
+T001,C004,1008,shipping_delay,"Order took too long, customer cancelled",closed,12-09-2026
+T002,C004,,complaint,General dissatisfaction with delivery speed,closed,27-08-2026

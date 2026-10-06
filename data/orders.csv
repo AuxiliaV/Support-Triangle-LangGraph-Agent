@@ -1,0 +1,9 @@
+order_id,customer_id,item,amount,status,order_date,delivered_date
+1001,C001,Wireless Mouse,25.99,delivered,2026-09-16,2026-09-19
+1002,C002,Mechanical Keyboard,129.0,delivered,2026-09-21,2026-09-23
+1003,C003,USB-C Hub,39.5,shipped,2026-09-24,
+1004,C001,Laptop Stand,45.0,placed,2026-09-25,
+1005,C002,Noise Cancelling Headphones,199.0,delivered,2026-09-06,2026-09-08
+1006,C003,Webcam,59.0,delivered,2026-08-09,2026-08-12
+1007,C004,4K Monitor,450.0,delivered,2026-09-20,2026-09-22
+1008,C004,Desk Lamp,22.0,cancelled,2026-09-11,
